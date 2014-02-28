@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-HotelsSendgrid::Application.config.secret_key_base = '1290eb1922cbb866f55924c3e23c3e8a88cb63bb26ebc0c7836253150b37f058048257a5f7558334f73b2cc04bdd29caa2541fab32cc0400c3e211144ed3ed80'
+HotelsSendgrid::Application.config.secret_key_base = '291adca4622180ab0ebd87b7e0cea21f93ae971c1be14ba2451ed835c5d53c9f2a9f360eac064ef5a035db67bff53b8a9fa2364aab29cdd3a214ac8ae3db700c'
